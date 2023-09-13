@@ -1,0 +1,191 @@
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Intermediate\Build\Win64\UE4Editor\Development\AgoraPlugin\Definitions.AgoraPlugin.h
+C:/Users/SCTE/Documents/Unreal Projects/MyProject/Plugins/AgoraPlugin/Intermediate/Build/Win64/UE4Editor/Inc/AgoraPlugin/AgoraAudioDeviceManager.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin/Public/AgoraBluePrintPlugin/AgoraAudioDeviceManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin\Private\AgoraCppPlugin/include/AgoraHeaderBase.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin\Public\AgoraCppPlugin/IAgoraMediaComponentFactory.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin\Public\AgoraCppPlugin\AgoraBase.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin\Public\AgoraCppPlugin\IAgoraParameter.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin\Public\AgoraCppPlugin\AgoraMediaBase.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\limits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cfloat
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cwchar
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cstdio
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\isa_availability.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin\Public\AgoraCppPlugin\AgoraRefPtr.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\memory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\iosfwd
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xmemory
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin\Public\AgoraCppPlugin\AgoraOptional.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\sdkddkver.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winsvc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mcx.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ime_cmodes.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin\Public\AgoraCppPlugin/IAgoraMediaEngine.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin\Public\AgoraCppPlugin/IAgoraMediaPlayer.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin\Public\AgoraCppPlugin\AgoraMediaPlayerTypes.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin\Public\AgoraCppPlugin/IAgoraMediaPlayerSource.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin\Public\AgoraCppPlugin/IAgoraMediaStreamingSource.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin\Public\AgoraCppPlugin/IAgoraRtcEngineEx.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin\Public\AgoraCppPlugin\IAgoraRtcEngine.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin\Public\AgoraCppPlugin\IAgoraLog.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin\Public\AgoraCppPlugin\IAudioDeviceManager.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin\Public\AgoraCppPlugin\IAgoraRhythmPlayer.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin\Public\AgoraCppPlugin\IAgoraH265Transcoder.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin\Public\AgoraCppPlugin/IAgoraSpatialAudio.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin\Public\AgoraCppPlugin/IAgoraMediaRecorder.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin\Public\AgoraCppPlugin/IAgoraMusicContentCenter.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Intermediate\Build\Win64\UE4Editor\Inc\AgoraPlugin\AgoraAudioDeviceManager.generated.h
+C:/Users/SCTE/Documents/Unreal Projects/MyProject/Plugins/AgoraPlugin/Intermediate/Build/Win64/UE4Editor/Inc/AgoraPlugin/AgoraIMediaPlayerSourceObserver.gen.cpp
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin/Public/AgoraBluePrintPlugin/AgoraIMediaPlayerSourceObserver.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin\Public\AgoraBluePrintPlugin/URtcEngineProxyCompatibility.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/Image.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/Widget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/Visual.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Visual.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Slate/WidgetTransform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetTransform.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetNavigation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Types/NavigationMetaData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetNavigation.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Widget.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Slate/SlateTextureAtlasInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SlateTextureAtlasInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/StreamableManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Image.generated.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Intermediate\Build\Win64\UE4Editor\Inc\AgoraPlugin\URtcEngineProxyCompatibility.generated.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Intermediate\Build\Win64\UE4Editor\Inc\AgoraPlugin\AgoraIMediaPlayerSourceObserver.generated.h
+C:/Users/SCTE/Documents/Unreal Projects/MyProject/Plugins/AgoraPlugin/Intermediate/Build/Win64/UE4Editor/Inc/AgoraPlugin/AgoraIRtcEngineEventHandler.gen.cpp
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Source\AgoraPlugin/Public/AgoraBluePrintPlugin/AgoraIRtcEngineEventHandler.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\iostream
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\istream
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\ostream
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\ios
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xlocnum
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cmath
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\iterator
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\streambuf
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\share.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\system_error
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cerrno
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\stdexcept
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xstring
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xcall_once.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xerrc.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xlocale
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xfacet
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xlocinfo
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\__msvc_xlocinfo_types.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cctype
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\locale.h
+C:\Users\SCTE\Documents\Unreal Projects\MyProject\Plugins\AgoraPlugin\Intermediate\Build\Win64\UE4Editor\Inc\AgoraPlugin\AgoraIRtcEngineEventHandler.generated.h

@@ -1,0 +1,53 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AgoraPlugin.cpp.obj": [
+			"AgoraAudioDeviceManager.cpp.obj",
+			"AgoraIMediaPlayerSourceObserver.cpp.obj",
+			"AgoraIRtcEngineEventHandler.cpp.obj",
+			"AgoraIRtcEngineEventHandlerEx.cpp.obj",
+			"AgoraMediaPlayer.cpp.obj",
+			"AgoraMediaRecorder.cpp.obj",
+			"AgoraRtcEngine.cpp.obj",
+			"AgoraSpatialAudio.cpp.obj",
+			"IAudioEncodedFrameObserver.cpp.obj",
+			"IFrameObserver.cpp.obj",
+			"IMediaRecorderObserver.cpp.obj",
+			"IMediaStreamingSourceObserver.cpp.obj",
+			"IVideoDeviceManager.cpp.obj",
+			"CacheManagerImpl.cpp.obj",
+			"DataManager.cpp.obj",
+			"MediaEngineProxy.cpp.obj",
+			"RtcEngineProxy.cpp.obj",
+			"VideoObserverInternal.cpp.obj",
+			"VideoRender.cpp.obj",
+			"VideoRenderManager.cpp.obj",
+			"AgoraPlugin.cpp.obj"
+		],
+		"Module.AgoraPlugin.gen.1_of_5.cpp.obj": [
+			"AgoraAudioDeviceManager.gen.cpp.obj",
+			"AgoraIMediaPlayerSourceObserver.gen.cpp.obj",
+			"AgoraIRtcEngineEventHandler.gen.cpp.obj"
+		],
+		"Module.AgoraPlugin.gen.2_of_5.cpp.obj": [
+			"AgoraIRtcEngineEventHandlerEx.gen.cpp.obj",
+			"AgoraMediaPlayer.gen.cpp.obj"
+		],
+		"Module.AgoraPlugin.gen.3_of_5.cpp.obj": [
+			"AgoraMediaRecorder.gen.cpp.obj",
+			"AgoraPlugin.init.gen.cpp.obj",
+			"AgoraRtcEngine.gen.cpp.obj"
+		],
+		"Module.AgoraPlugin.gen.4_of_5.cpp.obj": [
+			"AgoraSpatialAudio.gen.cpp.obj",
+			"IAudioEncodedFrameObserver.gen.cpp.obj",
+			"IFrameObserver.gen.cpp.obj"
+		],
+		"Module.AgoraPlugin.gen.5_of_5.cpp.obj": [
+			"IMediaRecorderObserver.gen.cpp.obj",
+			"IMediaStreamingSourceObserver.gen.cpp.obj",
+			"IVideoDeviceManager.gen.cpp.obj",
+			"URtcEngineProxyCompatibility.gen.cpp.obj"
+		]
+	}
+}
