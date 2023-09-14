@@ -1,7 +1,7 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\SCTE\\Documents\\Unreal Projects\\MyProject\\Plugins\\AgoraPlugin\\Source\\AgoraPlugin\\AgoraPlugin.Build.cs",
-		"C:\\Users\\SCTE\\Documents\\Unreal Projects\\MyProject\\Plugins\\AgoraPlugin\\Source\\ThirdParty\\AgoraPluginLibrary\\AgoraPluginLibrary.Build.cs"
+		"C:\\Users\\SCTE\\Documents\\GitHub\\Agora-Unreal-RTC-SDK\\MyProject\\Plugins\\AgoraPlugin\\Source\\AgoraPlugin\\AgoraPlugin.Build.cs",
+		"C:\\Users\\SCTE\\Documents\\GitHub\\Agora-Unreal-RTC-SDK\\MyProject\\Plugins\\AgoraPlugin\\Source\\ThirdParty\\AgoraPluginLibrary\\AgoraPluginLibrary.Build.cs"
 	],
 	"EngineVersion": "4.27.2"
 }
